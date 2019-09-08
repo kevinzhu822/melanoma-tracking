@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714155960579",
+    "firebase_url": "https://melanomore-9b6a8.firebaseio.com",
+    "project_id": "melanomore-9b6a8",
+    "storage_bucket": "melanomore-9b6a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714155960579:android:8553a0e7497ceb94cda136",
+        "android_client_info": {
+          "package_name": "com.example.melanomamonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714155960579-rqjl3vknirq3p0jshstj415cujp2mc1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melanomamonitor",
+            "certificate_hash": "01a39c2930d6cd612ca56b6e8c81105e4c051901"
+          }
+        },
+        {
+          "client_id": "714155960579-lj66qfdrchlq6acge28m938fe83nu7t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmL0TBHdjyG0wUARgTXr050w1ISq2tpzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714155960579-lj66qfdrchlq6acge28m938fe83nu7t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
